@@ -1,0 +1,9 @@
+.contact h1{
+    font-weight: 800;
+    font-size: 48px;
+}
+.contact p{
+    font-size: 16px;
+    font-weight: 500;
+    max-width: 1120px;
+}
