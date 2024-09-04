@@ -1,0 +1,28 @@
+.primary_btn{
+    min-width: 220px;
+    color: #fff;
+    min-width: 220px;
+    border-radius: 5px;
+    padding: 18px 10px;
+    background-color: black;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.Email_Btn{
+    color: black;
+    border:1px solid black;
+    width: 100%;
+    border-radius: 5px;
+    padding: 18px 10px;
+    background-color: white;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
